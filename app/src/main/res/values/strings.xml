@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learn Jetpack compose</string>
+    <string name="text">这是一个 Resource 文本</string>
+</resources>
